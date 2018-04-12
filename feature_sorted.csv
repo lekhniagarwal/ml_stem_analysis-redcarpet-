@@ -1,0 +1,251 @@
+index,Feature_Importance,name
+2,0.130151838,B) Year Established
+218,0.043383949,Unnamed: 224
+135,0.041214749,Unnamed: 141
+46,0.036876354,Unnamed: 52
+232,0.03253796,W) Measurement Instruments Used
+1,0.030368764,Subagency
+37,0.028199567,Unnamed: 43
+231,0.028199567,Unnamed: 237
+68,0.023861172,I4) Adult Learners Targeted?
+100,0.021691974,Unnamed: 106
+7,0.021691974,Unnamed: 13
+0,0.019522777,Agency
+242,0.019522777,Y3) Process or Implementation Evaluation Type
+246,0.019522777,Unnamed: 252
+15,0.017353579,Unnamed: 21
+216,0.017353579,Unnamed: 222
+86,0.015184382,Unnamed: 92
+236,0.015184382,Y1) Formative Evaluation Type
+28,0.015184382,Unnamed: 34
+204,0.015184382,U) Measured Outputs
+133,0.015184382,Unnamed: 139
+154,0.013015185,Q) Legislation Required to Shift Focus?
+87,0.013015185,J) Focus on Underrepresented Groups in STEM
+88,0.013015185,Unnamed: 94
+93,0.013015185,Unnamed: 99
+26,0.013015185,G3) Research Approaches Not Used
+14,0.013015185,Unnamed: 20
+50,0.010845987,I1) STEM Learners Targeted? Specify.
+180,0.010845987,S) Investment Partnerships
+139,0.010845987,Unnamed: 145
+20,0.010845987,Unnamed: 26
+12,0.010845987,Unnamed: 18
+239,0.010845987,Y2) Summative Evaluation Type
+40,0.010845987,Unnamed: 46
+123,0.00867679,N) STEM Discipline Focus
+220,0.00867679,Unnamed: 226
+245,0.00867679,Y4) Portfolio Evaluation/Review Type
+125,0.00867679,Unnamed: 131
+35,0.00867679,Unnamed: 41
+9,0.00867679,Unnamed: 15
+33,0.00867679,Unnamed: 39
+211,0.006507592,Unnamed: 217
+247,0.006507592,Unnamed: 253
+32,0.006507592,Unnamed: 38
+31,0.006507592,H) Educational Services or Products Produced
+182,0.006507592,Unnamed: 188
+153,0.006507592,Unnamed: 159
+30,0.006507592,Unnamed: 36
+106,0.006507592,L) Minority Serving Institutions
+5,0.006507592,F1) Primary Investment Objective
+76,0.004338395,Unnamed: 82
+77,0.004338395,Unnamed: 83
+142,0.004338395,Unnamed: 148
+221,0.004338395,Unnamed: 227
+200,0.004338395,Unnamed: 206
+181,0.004338395,T) Partnerships with What Organization Types?
+150,0.004338395,Unnamed: 156
+241,0.004338395,Unnamed: 247
+184,0.004338395,Unnamed: 190
+193,0.004338395,Unnamed: 199
+195,0.004338395,Unnamed: 201
+104,0.004338395,Unnamed: 110
+13,0.004338395,Unnamed: 19
+105,0.004338395,Unnamed: 111
+212,0.002169197,Unnamed: 218
+89,0.002169197,Unnamed: 95
+25,0.002169197,Unnamed: 31
+208,0.002169197,Unnamed: 214
+194,0.002169197,Unnamed: 200
+23,0.002169197,Unnamed: 29
+17,0.002169197,Unnamed: 23
+134,0.002169197,Unnamed: 140
+83,0.002169197,I9) Informal Stem Educators Targeted?
+22,0.002169197,Unnamed: 28
+127,0.002169197,Unnamed: 133
+196,0.002169197,Unnamed: 202
+38,0.002169197,Unnamed: 44
+234,0.002169197,Unnamed: 240
+60,0.002169197,Unnamed: 66
+233,0.002169197,Unnamed: 239
+237,0.002169197,Unnamed: 243
+41,0.002169197,Unnamed: 47
+72,0.002169197,Unnamed: 78
+43,0.002169197,Unnamed: 49
+225,0.002169197,Unnamed: 231
+19,0.002169197,Unnamed: 25
+45,0.002169197,Unnamed: 51
+146,0.002169197,Unnamed: 152
+244,0.002169197,Unnamed: 250
+10,0.002169197,Unnamed: 16
+243,0.002169197,Unnamed: 249
+163,0,Unnamed: 169
+162,0,Unnamed: 168
+188,0,Unnamed: 194
+161,0,Unnamed: 167
+164,0,Unnamed: 170
+160,0,Unnamed: 166
+185,0,Unnamed: 191
+186,0,Unnamed: 192
+183,0,Unnamed: 189
+179,0,Unnamed: 185
+18,0,Unnamed: 24
+172,0,Unnamed: 178
+178,0,Unnamed: 184
+177,0,Unnamed: 183
+176,0,Unnamed: 182
+175,0,Unnamed: 181
+165,0,Unnamed: 171
+166,0,Unnamed: 172
+167,0,Unnamed: 173
+168,0,R2) Joint Funding of Investment (with Other)
+169,0,Unnamed: 175
+170,0,Unnamed: 176
+174,0,Unnamed: 180
+173,0,Unnamed: 179
+171,0,Unnamed: 177
+187,0,Unnamed: 193
+205,0,Unnamed: 211
+189,0,Unnamed: 195
+230,0,Unnamed: 236
+222,0,Unnamed: 228
+223,0,Unnamed: 229
+224,0,Unnamed: 230
+226,0,Unnamed: 232
+227,0,Unnamed: 233
+228,0,Unnamed: 234
+229,0,Unnamed: 235
+235,0,X) Evaluated Since 2005?
+219,0,V) Outcomes Measured
+8,0,Unnamed: 14
+238,0,Unnamed: 244
+6,0,F2) Secondary Investment Objectives
+240,0,Unnamed: 246
+4,0,E) Agency or Mission-Related Workforce Needs?
+3,0,D) Mission-specific or General STEM?
+248,0,Y5) Expert Review Type
+11,0,Unnamed: 17
+217,0,Unnamed: 223
+190,0,Unnamed: 196
+203,0,Unnamed: 209
+191,0,Unnamed: 197
+192,0,Unnamed: 198
+197,0,Unnamed: 203
+198,0,Unnamed: 204
+199,0,Unnamed: 205
+201,0,Unnamed: 207
+202,0,Unnamed: 208
+158,0,Unnamed: 164
+16,0,G1) Primary Research Approaches
+206,0,Unnamed: 212
+207,0,Unnamed: 213
+209,0,Unnamed: 215
+210,0,Unnamed: 216
+213,0,Unnamed: 219
+214,0,Unnamed: 220
+215,0,Unnamed: 221
+159,0,Unnamed: 165
+144,0,Unnamed: 150
+157,0,Unnamed: 163
+81,0,Unnamed: 87
+69,0,I5) Education Researchers Targeted? 
+70,0,I6) K-12 Staff/Administrators Targeted? Specify.
+71,0,Unnamed: 77
+73,0,Unnamed: 79
+74,0,Unnamed: 80
+75,0,I7) Post-secondary Instructors Targeted? Specify.
+78,0,Unnamed: 84
+79,0,I8) Post-secondary Staff Targeted? Specify.
+80,0,Unnamed: 86
+82,0,Unnamed: 88
+156,0,Unnamed: 162
+84,0,I10) Other Informal STEM Education Staff Targeted?
+85,0,I11) Other Target Group?
+90,0,Unnamed: 96
+91,0,Unnamed: 97
+92,0,Unnamed: 98
+29,0,Unnamed: 35
+94,0,Unnamed: 100
+95,0,Unnamed: 101
+96,0,Unnamed: 102
+67,0,Unnamed: 73
+66,0,Unnamed: 72
+65,0,Unnamed: 71
+64,0,Unnamed: 70
+36,0,Unnamed: 42
+42,0,Unnamed: 48
+44,0,Unnamed: 50
+47,0,Unnamed: 53
+48,0,Unnamed: 54
+49,0,Unnamed: 55
+34,0,Unnamed: 40
+51,0,Unnamed: 57
+52,0,Unnamed: 58
+53,0,Unnamed: 59
+54,0,Unnamed: 60
+55,0,Unnamed: 61
+56,0,Unnamed: 62
+57,0,Unnamed: 63
+58,0,I2) Pre-service-service STEM Teachers Targeted? Specify.
+59,0,Unnamed: 65
+61,0,Unnamed: 67
+62,0,Unnamed: 68
+63,0,I3) In-service STEM Teachers Targeted? Specify.
+97,0,Unnamed: 103
+98,0,Unnamed: 104
+99,0,Unnamed: 105
+126,0,Unnamed: 132
+129,0,Unnamed: 135
+130,0,Unnamed: 136
+131,0,Unnamed: 137
+132,0,Unnamed: 138
+136,0,O) Organization or Individual Funded
+137,0,Unnamed: 143
+138,0,Unnamed: 144
+21,0,G2) Secondary Research Approaches
+140,0,Unnamed: 146
+141,0,Unnamed: 147
+143,0,Unnamed: 149
+39,0,Unnamed: 45
+145,0,Unnamed: 151
+147,0,Unnamed: 153
+148,0,P) External Funding Allocation
+149,0,Unnamed: 155
+151,0,Unnamed: 157
+152,0,Unnamed: 158
+155,0,R1) Joint Funding of Investment (with Agencies)
+128,0,Unnamed: 134
+24,0,Unnamed: 30
+27,0,Unnamed: 33
+124,0,Unnamed: 130
+101,0,Unnamed: 107
+102,0,K) Eligibility Restrictions
+103,0,Unnamed: 109
+107,0,Unnamed: 113
+108,0,Unnamed: 114
+109,0,Unnamed: 115
+110,0,Unnamed: 116
+111,0,Unnamed: 117
+112,0,Unnamed: 118
+113,0,M) Geographic Region
+114,0,Unnamed: 120
+115,0,Unnamed: 121
+116,0,Unnamed: 122
+117,0,Unnamed: 123
+118,0,Unnamed: 124
+119,0,Unnamed: 125
+120,0,Unnamed: 126
+121,0,Unnamed: 127
+122,0,Unnamed: 128
+249,0,Unnamed: 255

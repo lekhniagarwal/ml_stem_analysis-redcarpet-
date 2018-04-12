@@ -1,0 +1,251 @@
+Feature_Importance,name
+0.0195227768,Agency
+0.030368764,Subagency
+0.1301518381,B) Year Established
+0.0,D) Mission-specific or General STEM?
+0.0,E) Agency or Mission-Related Workforce Needs?
+0.0065075923,F1) Primary Investment Objective
+0.0,F2) Secondary Investment Objectives
+0.021691974300000003,Unnamed: 13
+0.0,Unnamed: 14
+0.0086767897,Unnamed: 15
+0.0021691974,Unnamed: 16
+0.0,Unnamed: 17
+0.0108459871,Unnamed: 18
+0.0043383949,Unnamed: 19
+0.0130151846,Unnamed: 20
+0.0173535794,Unnamed: 21
+0.0,G1) Primary Research Approaches
+0.0021691974,Unnamed: 23
+0.0,Unnamed: 24
+0.0021691974,Unnamed: 25
+0.0108459871,Unnamed: 26
+0.0,G2) Secondary Research Approaches
+0.0021691974,Unnamed: 28
+0.0021691974,Unnamed: 29
+0.0,Unnamed: 30
+0.0021691974,Unnamed: 31
+0.0130151846,G3) Research Approaches Not Used
+0.0,Unnamed: 33
+0.015184382,Unnamed: 34
+0.0,Unnamed: 35
+0.0065075923,Unnamed: 36
+0.0065075923,H) Educational Services or Products Produced
+0.0065075923,Unnamed: 38
+0.0086767897,Unnamed: 39
+0.0,Unnamed: 40
+0.0086767897,Unnamed: 41
+0.0,Unnamed: 42
+0.0281995665,Unnamed: 43
+0.0021691974,Unnamed: 44
+0.0,Unnamed: 45
+0.0108459871,Unnamed: 46
+0.0021691974,Unnamed: 47
+0.0,Unnamed: 48
+0.0021691974,Unnamed: 49
+0.0,Unnamed: 50
+0.0021691974,Unnamed: 51
+0.0368763544,Unnamed: 52
+0.0,Unnamed: 53
+0.0,Unnamed: 54
+0.0,Unnamed: 55
+0.0108459871,I1) STEM Learners Targeted? Specify.
+0.0,Unnamed: 57
+0.0,Unnamed: 58
+0.0,Unnamed: 59
+0.0,Unnamed: 60
+0.0,Unnamed: 61
+0.0,Unnamed: 62
+0.0,Unnamed: 63
+0.0,I2) Pre-service-service STEM Teachers Targeted? Specify.
+0.0,Unnamed: 65
+0.0021691974,Unnamed: 66
+0.0,Unnamed: 67
+0.0,Unnamed: 68
+0.0,I3) In-service STEM Teachers Targeted? Specify.
+0.0,Unnamed: 70
+0.0,Unnamed: 71
+0.0,Unnamed: 72
+0.0,Unnamed: 73
+0.0238611717,I4) Adult Learners Targeted?
+0.0,I5) Education Researchers Targeted? 
+0.0,I6) K-12 Staff/Administrators Targeted? Specify.
+0.0,Unnamed: 77
+0.0021691974,Unnamed: 78
+0.0,Unnamed: 79
+0.0,Unnamed: 80
+0.0,I7) Post-secondary Instructors Targeted? Specify.
+0.0043383949,Unnamed: 82
+0.0043383949,Unnamed: 83
+0.0,Unnamed: 84
+0.0,I8) Post-secondary Staff Targeted? Specify.
+0.0,Unnamed: 86
+0.0,Unnamed: 87
+0.0,Unnamed: 88
+0.0021691974,I9) Informal Stem Educators Targeted?
+0.0,I10) Other Informal STEM Education Staff Targeted?
+0.0,I11) Other Target Group?
+0.015184382,Unnamed: 92
+0.0130151846,J) Focus on Underrepresented Groups in STEM
+0.0130151846,Unnamed: 94
+0.0021691974,Unnamed: 95
+0.0,Unnamed: 96
+0.0,Unnamed: 97
+0.0,Unnamed: 98
+0.0130151846,Unnamed: 99
+0.0,Unnamed: 100
+0.0,Unnamed: 101
+0.0,Unnamed: 102
+0.0,Unnamed: 103
+0.0,Unnamed: 104
+0.0,Unnamed: 105
+0.021691974300000003,Unnamed: 106
+0.0,Unnamed: 107
+0.0,K) Eligibility Restrictions
+0.0,Unnamed: 109
+0.0043383949,Unnamed: 110
+0.0043383949,Unnamed: 111
+0.0065075923,L) Minority Serving Institutions
+0.0,Unnamed: 113
+0.0,Unnamed: 114
+0.0,Unnamed: 115
+0.0,Unnamed: 116
+0.0,Unnamed: 117
+0.0,Unnamed: 118
+0.0,M) Geographic Region
+0.0,Unnamed: 120
+0.0,Unnamed: 121
+0.0,Unnamed: 122
+0.0,Unnamed: 123
+0.0,Unnamed: 124
+0.0,Unnamed: 125
+0.0,Unnamed: 126
+0.0,Unnamed: 127
+0.0,Unnamed: 128
+0.0086767897,N) STEM Discipline Focus
+0.0,Unnamed: 130
+0.0086767897,Unnamed: 131
+0.0,Unnamed: 132
+0.0021691974,Unnamed: 133
+0.0,Unnamed: 134
+0.0,Unnamed: 135
+0.0,Unnamed: 136
+0.0,Unnamed: 137
+0.0,Unnamed: 138
+0.015184382,Unnamed: 139
+0.0021691974,Unnamed: 140
+0.0412147492,Unnamed: 141
+0.0,O) Organization or Individual Funded
+0.0,Unnamed: 143
+0.0,Unnamed: 144
+0.0108459871,Unnamed: 145
+0.0,Unnamed: 146
+0.0,Unnamed: 147
+0.0043383949,Unnamed: 148
+0.0,Unnamed: 149
+0.0,Unnamed: 150
+0.0,Unnamed: 151
+0.0021691974,Unnamed: 152
+0.0,Unnamed: 153
+0.0,P) External Funding Allocation
+0.0,Unnamed: 155
+0.0043383949,Unnamed: 156
+0.0,Unnamed: 157
+0.0,Unnamed: 158
+0.0065075923,Unnamed: 159
+0.0130151846,Q) Legislation Required to Shift Focus?
+0.0,R1) Joint Funding of Investment (with Agencies)
+0.0,Unnamed: 162
+0.0,Unnamed: 163
+0.0,Unnamed: 164
+0.0,Unnamed: 165
+0.0,Unnamed: 166
+0.0,Unnamed: 167
+0.0,Unnamed: 168
+0.0,Unnamed: 169
+0.0,Unnamed: 170
+0.0,Unnamed: 171
+0.0,Unnamed: 172
+0.0,Unnamed: 173
+0.0,R2) Joint Funding of Investment (with Other)
+0.0,Unnamed: 175
+0.0,Unnamed: 176
+0.0,Unnamed: 177
+0.0,Unnamed: 178
+0.0,Unnamed: 179
+0.0,Unnamed: 180
+0.0,Unnamed: 181
+0.0,Unnamed: 182
+0.0,Unnamed: 183
+0.0,Unnamed: 184
+0.0,Unnamed: 185
+0.0108459871,S) Investment Partnerships
+0.0043383949,T) Partnerships with What Organization Types?
+0.0065075923,Unnamed: 188
+0.0,Unnamed: 189
+0.0043383949,Unnamed: 190
+0.0,Unnamed: 191
+0.0,Unnamed: 192
+0.0,Unnamed: 193
+0.0,Unnamed: 194
+0.0,Unnamed: 195
+0.0,Unnamed: 196
+0.0,Unnamed: 197
+0.0,Unnamed: 198
+0.0043383949,Unnamed: 199
+0.0021691974,Unnamed: 200
+0.0043383949,Unnamed: 201
+0.0021691974,Unnamed: 202
+0.0,Unnamed: 203
+0.0,Unnamed: 204
+0.0,Unnamed: 205
+0.0043383949,Unnamed: 206
+0.0,Unnamed: 207
+0.0,Unnamed: 208
+0.0,Unnamed: 209
+0.015184382,U) Measured Outputs
+0.0,Unnamed: 211
+0.0,Unnamed: 212
+0.0,Unnamed: 213
+0.0021691974,Unnamed: 214
+0.0,Unnamed: 215
+0.0,Unnamed: 216
+0.0065075923,Unnamed: 217
+0.0021691974,Unnamed: 218
+0.0,Unnamed: 219
+0.0,Unnamed: 220
+0.0,Unnamed: 221
+0.0173535794,Unnamed: 222
+0.0,Unnamed: 223
+0.0433839485,Unnamed: 224
+0.0,V) Outcomes Measured
+0.0086767897,Unnamed: 226
+0.0043383949,Unnamed: 227
+0.0,Unnamed: 228
+0.0,Unnamed: 229
+0.0,Unnamed: 230
+0.0021691974,Unnamed: 231
+0.0,Unnamed: 232
+0.0,Unnamed: 233
+0.0,Unnamed: 234
+0.0,Unnamed: 235
+0.0,Unnamed: 236
+0.0281995665,Unnamed: 237
+0.032537959500000005,W) Measurement Instruments Used
+0.0021691974,Unnamed: 239
+0.0021691974,Unnamed: 240
+0.0,X) Evaluated Since 2005?
+0.015184382,Y1) Formative Evaluation Type
+0.0021691974,Unnamed: 243
+0.0,Unnamed: 244
+0.0108459871,Y2) Summative Evaluation Type
+0.0,Unnamed: 246
+0.0043383949,Unnamed: 247
+0.0195227768,Y3) Process or Implementation Evaluation Type
+0.0021691974,Unnamed: 249
+0.0021691974,Unnamed: 250
+0.0086767897,Y4) Portfolio Evaluation/Review Type
+0.0195227768,Unnamed: 252
+0.0065075923,Unnamed: 253
+0.0,Y5) Expert Review Type
+0.0,Unnamed: 255
